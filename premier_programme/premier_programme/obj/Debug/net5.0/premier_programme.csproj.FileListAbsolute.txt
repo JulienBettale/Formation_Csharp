@@ -1,0 +1,16 @@
+C:\Users\julie\OneDrive\Documents\C#\premier_programme\premier_programme\bin\Debug\net5.0\premier_programme.exe
+C:\Users\julie\OneDrive\Documents\C#\premier_programme\premier_programme\bin\Debug\net5.0\premier_programme.deps.json
+C:\Users\julie\OneDrive\Documents\C#\premier_programme\premier_programme\bin\Debug\net5.0\premier_programme.runtimeconfig.json
+C:\Users\julie\OneDrive\Documents\C#\premier_programme\premier_programme\bin\Debug\net5.0\premier_programme.runtimeconfig.dev.json
+C:\Users\julie\OneDrive\Documents\C#\premier_programme\premier_programme\bin\Debug\net5.0\premier_programme.dll
+C:\Users\julie\OneDrive\Documents\C#\premier_programme\premier_programme\bin\Debug\net5.0\ref\premier_programme.dll
+C:\Users\julie\OneDrive\Documents\C#\premier_programme\premier_programme\bin\Debug\net5.0\premier_programme.pdb
+C:\Users\julie\OneDrive\Documents\C#\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.csproj.AssemblyReference.cache
+C:\Users\julie\OneDrive\Documents\C#\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\OneDrive\Documents\C#\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.AssemblyInfoInputs.cache
+C:\Users\julie\OneDrive\Documents\C#\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.AssemblyInfo.cs
+C:\Users\julie\OneDrive\Documents\C#\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.csproj.CoreCompileInputs.cache
+C:\Users\julie\OneDrive\Documents\C#\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.dll
+C:\Users\julie\OneDrive\Documents\C#\premier_programme\premier_programme\obj\Debug\net5.0\ref\premier_programme.dll
+C:\Users\julie\OneDrive\Documents\C#\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.pdb
+C:\Users\julie\OneDrive\Documents\C#\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.genruntimeconfig.cache

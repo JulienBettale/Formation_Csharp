@@ -1,0 +1,16 @@
+C:\Users\julie\OneDrive\Documents\C#\jeu_de_maths\jeu_de_maths\bin\Debug\net5.0\jeu_de_maths.exe
+C:\Users\julie\OneDrive\Documents\C#\jeu_de_maths\jeu_de_maths\bin\Debug\net5.0\jeu_de_maths.deps.json
+C:\Users\julie\OneDrive\Documents\C#\jeu_de_maths\jeu_de_maths\bin\Debug\net5.0\jeu_de_maths.runtimeconfig.json
+C:\Users\julie\OneDrive\Documents\C#\jeu_de_maths\jeu_de_maths\bin\Debug\net5.0\jeu_de_maths.runtimeconfig.dev.json
+C:\Users\julie\OneDrive\Documents\C#\jeu_de_maths\jeu_de_maths\bin\Debug\net5.0\jeu_de_maths.dll
+C:\Users\julie\OneDrive\Documents\C#\jeu_de_maths\jeu_de_maths\bin\Debug\net5.0\ref\jeu_de_maths.dll
+C:\Users\julie\OneDrive\Documents\C#\jeu_de_maths\jeu_de_maths\bin\Debug\net5.0\jeu_de_maths.pdb
+C:\Users\julie\OneDrive\Documents\C#\jeu_de_maths\jeu_de_maths\obj\Debug\net5.0\jeu_de_maths.csproj.AssemblyReference.cache
+C:\Users\julie\OneDrive\Documents\C#\jeu_de_maths\jeu_de_maths\obj\Debug\net5.0\jeu_de_maths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\OneDrive\Documents\C#\jeu_de_maths\jeu_de_maths\obj\Debug\net5.0\jeu_de_maths.AssemblyInfoInputs.cache
+C:\Users\julie\OneDrive\Documents\C#\jeu_de_maths\jeu_de_maths\obj\Debug\net5.0\jeu_de_maths.AssemblyInfo.cs
+C:\Users\julie\OneDrive\Documents\C#\jeu_de_maths\jeu_de_maths\obj\Debug\net5.0\jeu_de_maths.csproj.CoreCompileInputs.cache
+C:\Users\julie\OneDrive\Documents\C#\jeu_de_maths\jeu_de_maths\obj\Debug\net5.0\jeu_de_maths.dll
+C:\Users\julie\OneDrive\Documents\C#\jeu_de_maths\jeu_de_maths\obj\Debug\net5.0\ref\jeu_de_maths.dll
+C:\Users\julie\OneDrive\Documents\C#\jeu_de_maths\jeu_de_maths\obj\Debug\net5.0\jeu_de_maths.pdb
+C:\Users\julie\OneDrive\Documents\C#\jeu_de_maths\jeu_de_maths\obj\Debug\net5.0\jeu_de_maths.genruntimeconfig.cache
